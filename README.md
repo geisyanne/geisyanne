@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**geisyanne/geisyanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, eu sou a Geisyanne! 
 
-Here are some ideas to get you started:
+- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas
+- 📱 Aprendendo com foco em mobile (Java/Kotlin)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div align="center"> <br>
+  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" hspace="20">
+  <img align="center" alt="Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" hspace="20">
+  <img align="center" alt="Android Studio" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" hspace="20">
+</div> <br>
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/geisyanne-cristina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+

@@ -1,8 +1,8 @@
 
 ### Olá, eu sou a Geisyanne! 
 
-- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas
-- 📱 Aprendendo com foco em mobile (Java/Kotlin)
+- 👨‍💻 Tecnóloga em Análise e Desenvolvimento de Sistemas
+- 📱 Dev Android Jr (Kotlin)
 
 ##
 
